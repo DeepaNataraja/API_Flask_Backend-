@@ -1,5 +1,5 @@
 # API_Flask_Backend
-A simple employee maintenance from multiple department using Python/Flask/PostgreSQL/Psycopg2
+A simple HR data management app from multiple department using Python/Flask/PostgreSQL/Psycopg2
 # Table Of Contents 
 * Project overview
 * Technologies used 
